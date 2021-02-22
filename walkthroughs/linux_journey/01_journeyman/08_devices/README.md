@@ -41,4 +41,3 @@
 - https://www.thegeekdiary.com/understanding-the-proc-file-system/
 - https://landoflinux.com/linux_procfs_sysfs.html
 - https://cromwell-intl.com/open-source/sysfs.html
-- 
